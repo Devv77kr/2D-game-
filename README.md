@@ -1,4 +1,4 @@
-# TileVania
+# SANTOSH KUMAR
 Study project-game from Complete C# Unity Game Developer 2D by gamedev.tv
 
 Game Design
